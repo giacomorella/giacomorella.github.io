@@ -14,7 +14,7 @@ Contact information: rella.gia@gmail.com
 
 I received a BA in Business Economics from the University of Bari "Aldo Moro". Then, I moved to Siena where I received a MSc in Finance from the University of Siena. In 2017, I started my PhD studies under the supervision of [Marco P. Tucci](https://docenti.unisi.it/it/marcotucci).
 
-From September 2019 to January 2020, I spent a period of visiting research at the Department of Economics at Ghent University, under the supervision of [Gert Peersman](https://sites.google.com/view/gert-peersman/home). From February to September 2020, I have been a visiting PhD student at the Department of Economics at UMass-Boston where I worked under the supervision of [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/).
+From September 2019 to January 2020, I was visiting PhD student at the Department of Economics at Ghent University, under the supervision of [Gert Peersman](https://sites.google.com/view/gert-peersman/home). From February to September 2020, I visited the Department of Economics at University of Massachusetts in Boston where I worked under the supervision of [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/).
 
 
 ### Research
