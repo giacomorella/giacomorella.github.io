@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+I am PhD student in Economics at the University of Siena, Italy.
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
