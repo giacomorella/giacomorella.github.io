@@ -19,11 +19,11 @@ From September 2019 to January 2020, I spent a period of visiting research at th
 
 ### Research
 
-- ## Working papers
+- #### Working papers:
  
 	-   "The Fed, housing and household debt over time'' (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/04-02-2021/850.pdf) 
 
-- ## Work in progress
+- #### Work in progress:
 
 	-   "Macroeconomic effects of household debt: a survey'' 
 
