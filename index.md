@@ -21,13 +21,13 @@ From September 2019 to January 2020, I was visiting PhD student at the Departmen
 
 - #### Working papers:
  
-	-   "The Fed, housing and household debt over time'' (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/04-02-2021/850.pdf) 
+	-   "The Fed, housing and household debt over time'' (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/02-03-2021/850.pdf) 
 
 - #### Work in progress:
 
-	-   "Macroeconomic effects of household debt: a survey'' 
+	-   "Macroeconomic effects of household debt: a survey of the empirical literature'' 
 
-	-   "Real and financial effects of non-financial firm debt'' with [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/)
+	-   "Real and financial effects of non-financial corporate debt'' with [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/)
 
 #### Other writings
 
