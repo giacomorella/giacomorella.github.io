@@ -21,14 +21,14 @@ From September 2019 to January 2020, I was visiting PhD student at the Departmen
 
 - #### Working papers:
  
-	-   "The Fed, housing and household debt over time'' (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/02-03-2021/850.pdf) 
+	-   The Fed, housing and household debt over time (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/02-03-2021/850.pdf) 
 	
-         -   "Macroeconomic effects of household debt: a survey of the empirical literature'' [[last version]](./assets/survey_rella.pdf) 
+         -   Macroeconomic effects of household debt: a survey of the empirical literature' [[last version]](./assets/survey_rella.pdf) 
 
 - #### Work in progress:
 
-	-   "Real and financial effects of non-financial corporate debt'' with [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/)
+	-   Real and financial effects of non-financial corporate debt with [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/)
 
 #### Other writings
 
-*   “[Recessione, Domanda e Consumi: una riflessione](https://www.eticaeconomia.it/recessione-domanda-e-consumi-una-riflessione/)", with [Giovanna Scarchilli](https://twitter.com/giovannascarchi) (March 2, 2019), Menabò di Etica ed Economia, n. 99/2019
+*   [Recessione, Domanda e Consumi: una riflessione](https://www.eticaeconomia.it/recessione-domanda-e-consumi-una-riflessione/), with [Giovanna Scarchilli](https://twitter.com/giovannascarchi) (March 2, 2019), Menabò di Etica ed Economia, n. 99/2019
