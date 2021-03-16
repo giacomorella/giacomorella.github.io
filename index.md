@@ -1,6 +1,5 @@
 ---
 layout: default
-classes: wide
 ---
 
 I am a PhD student in Economics at the University of Siena, [Department of Economics and Statistics](https://www.deps.unisi.it/it) (Joint PhD with the Universities of Pisa and Florence).
