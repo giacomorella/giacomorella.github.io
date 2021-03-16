@@ -21,7 +21,7 @@ From September 2019 to January 2020, I was visiting PhD student at the Departmen
 
 - #### Working papers:
  
-	-  'The Fed, housing and household debt over time' (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/02-03-2021/850.pdf) 
+	-  'The Fed, housing and household debt over time' (job market paper) [[DEPS Working Paper No. 850]](https://www.deps.unisi.it/sites/st02/files/allegatiparagrafo/02-03-2021/850.pdf), [[last version]](./assets/tvp_rella.pdf) 
 	
 	-  'Macroeconomic effects of household debt: a survey of the empirical literature' [[last version]](./assets/survey_rella.pdf) 
 
