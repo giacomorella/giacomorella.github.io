@@ -28,6 +28,8 @@ From September 2019 to January 2020, I was visiting PhD student at the Departmen
 - #### Work in progress:
 
 	-   'Real and financial effects of non-financial corporate debt' with [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/)
+	
+	-   'Monetary and housing credit policy interaction in US' 
 
 #### Other writings
 
