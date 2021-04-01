@@ -4,7 +4,7 @@ layout: default
 
 I am a PhD candidate in Economics at the University of Siena, [Department of Economics and Statistics](https://www.deps.unisi.it/it) (Joint PhD with the Universities of Pisa and Florence). From April 2021, I will be a Trainee in International Macroeconomics and International Finance within the External Developments Division at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). 
 
-My research focuses on applied macroeconomics. In my PhD thesis, I study the interaction of monetary policy with household debt and the aggregate effects of non-financial corporate borrowing.
+My research focuses on applied macroeconomics. In my PhD thesis, I study the interaction of monetary policy and household debt, and the aggregate effects of non-financial corporate borrowing.
 
 Contact information: rella.gia@gmail.com
 
