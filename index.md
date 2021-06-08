@@ -30,7 +30,7 @@ From September 2019 to January 2020, I was visiting PhD student at the Departmen
 	
 	-   'Monetary and housing credit policy interaction in US' 
 	
-         -   'Unintended Consequences of Monetary Policy: Implications for Income and Wealth Distributions' with [Alessandro Franconi (Luiss)](https://sites.google.com/view/alessandrofranconi/home?authuser=0)
+        -   'Unintended Consequences of Monetary Policy: Implications for Income and Wealth Distributions' with [Alessandro Franconi (Luiss)](https://sites.google.com/view/alessandrofranconi/home?authuser=0)
 
 
 #### Other writings
