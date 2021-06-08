@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a PhD candidate in Economics at the University of Siena, [Department of Economics and Statistics](https://www.deps.unisi.it/it) (Joint PhD with the Universities of Pisa and Florence). From April 2021, I will be a Trainee in International Macroeconomics and International Finance within the External Developments Division at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). 
+I am a trainee within the External Developments Division at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). In May 2021, I received my PhD in Economics from the University of Siena, [Department of Economics and Statistics](https://www.deps.unisi.it/it) (Joint PhD with the Universities of Pisa and Florence). 
 
-My research focuses on applied macroeconomics. In my PhD thesis, I study the interaction of monetary policy and household debt, and the aggregate effects of non-financial corporate borrowing.
+My research focuses on applied macroeconomics. In my PhD thesis, I studied the interaction of monetary policy and household debt, and the aggregate effects of non-financial corporate borrowing.
 
 Contact information: rella.gia@gmail.com
 
@@ -15,7 +15,6 @@ Contact information: rella.gia@gmail.com
 I received a BA in Business Economics from the University of Bari "Aldo Moro". Then, I moved to Siena where I received a MSc in Finance from the University of Siena. In 2017, I started my PhD studies under the supervision of [Marco P. Tucci](https://docenti.unisi.it/it/marcotucci).
 
 From September 2019 to January 2020, I was visiting PhD student at the Department of Economics at Ghent University, under the supervision of [Gert Peersman](https://sites.google.com/view/gert-peersman/home). From February to September 2020, I visited the Department of Economics at University of Massachusetts in Boston where I worked under the supervision of [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/).
-
 
 ### Research
 
@@ -30,6 +29,9 @@ From September 2019 to January 2020, I was visiting PhD student at the Departmen
 	-   'Real and financial effects of non-financial corporate debt' with [Yun K. Kim](https://blogs.umb.edu/yunkim/), [Leila Davis](https://www.leiladavis.net/) and [Joao Paulo A. de Souza](https://sites.google.com/view/joaodesouza/)
 	
 	-   'Monetary and housing credit policy interaction in US' 
+	
+         -   'Unintended Consequences of Monetary Policy: Implications for Income and Wealth Distributions' with [Alessandro Franconi (Luiss)](https://sites.google.com/view/alessandrofranconi/home?authuser=0)
+
 
 #### Other writings
 
